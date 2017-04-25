@@ -68,8 +68,8 @@ object SuperProject_Metrics : BuildType({
                         publisher = github {
                 githubUrl = "https://api.github.com"
                 authType = password {
-                    userName = ""
-                    password = ""
+                userName = "maksar"
+                password = "zxx35d827c45c7e4c7dc683bc541ccdf86a4b19f29027fd7e4d564563d801fe6d0d04a897e016d79870775d03cbe80d301b"
                 }
             }
         }
